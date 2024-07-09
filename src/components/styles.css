@@ -1,0 +1,17 @@
+.icon-style {
+    font-size: 38px;
+    transition: all 0.5s;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    height: 100px;
+    padding: 30px 0;
+    border-radius: 50%;
+    background: linear-gradient(to right, #FFD700 0%, #FFA500 100%);
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
