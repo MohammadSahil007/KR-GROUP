@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/KR_GROUP_/static/css/main.68510df1.css",
+    "main.js": "/KR_GROUP_/static/js/main.20ab38b3.js",
+    "static/media/o3.png": "/KR_GROUP_/static/media/o3.7da3dbae3f0568ebc7b6.png",
+    "static/media/kr-logo1.png": "/KR_GROUP_/static/media/kr-logo1.065c9c70e7fdb3f75131.png",
+    "static/media/o2.png": "/KR_GROUP_/static/media/o2.66a0ba158c34ebd3bfba.png",
+    "static/media/o1.png": "/KR_GROUP_/static/media/o1.323d853614b89c637097.png",
+    "static/media/o7.png": "/KR_GROUP_/static/media/o7.941a0e6c2b418d29f026.png",
+    "static/media/o13.png": "/KR_GROUP_/static/media/o13.2b36d71943310afc6fd6.png",
+    "static/media/o8.png": "/KR_GROUP_/static/media/o8.7e5bfe7cb5912600f9fc.png",
+    "static/media/o11.png": "/KR_GROUP_/static/media/o11.8efaab2cdc1c590e73ee.png",
+    "static/media/o12.png": "/KR_GROUP_/static/media/o12.86ea2d30bfe90103318a.png",
+    "static/media/o6.png": "/KR_GROUP_/static/media/o6.e64b0c56b9b4979a0643.png",
+    "static/media/o4.png": "/KR_GROUP_/static/media/o4.0af70cc5741efb068847.png",
+    "static/media/o14.png": "/KR_GROUP_/static/media/o14.98d0d924d249f37aeb1a.png",
+    "static/media/o5.png": "/KR_GROUP_/static/media/o5.20bfa3dad820cff7968a.png",
+    "index.html": "/KR_GROUP_/index.html",
+    "main.68510df1.css.map": "/KR_GROUP_/static/css/main.68510df1.css.map",
+    "main.20ab38b3.js.map": "/KR_GROUP_/static/js/main.20ab38b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68510df1.css",
+    "static/js/main.20ab38b3.js"
+  ]
+}
