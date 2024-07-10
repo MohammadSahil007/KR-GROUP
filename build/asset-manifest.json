@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c62c5a3.css",
+    "main.js": "/static/js/main.cdf48d2b.js",
+    "static/media/o3.png": "/static/media/o3.7da3dbae3f0568ebc7b6.png",
+    "static/media/kr-logo1.png": "/static/media/kr-logo1.065c9c70e7fdb3f75131.png",
+    "static/media/o2.png": "/static/media/o2.66a0ba158c34ebd3bfba.png",
+    "static/media/o1.png": "/static/media/o1.323d853614b89c637097.png",
+    "static/media/o7.png": "/static/media/o7.941a0e6c2b418d29f026.png",
+    "static/media/o13.png": "/static/media/o13.2b36d71943310afc6fd6.png",
+    "static/media/o8.png": "/static/media/o8.7e5bfe7cb5912600f9fc.png",
+    "static/media/o11.png": "/static/media/o11.8efaab2cdc1c590e73ee.png",
+    "static/media/o12.png": "/static/media/o12.86ea2d30bfe90103318a.png",
+    "static/media/o6.png": "/static/media/o6.e64b0c56b9b4979a0643.png",
+    "static/media/o4.png": "/static/media/o4.0af70cc5741efb068847.png",
+    "static/media/o14.png": "/static/media/o14.98d0d924d249f37aeb1a.png",
+    "static/media/o5.png": "/static/media/o5.20bfa3dad820cff7968a.png",
+    "index.html": "/index.html",
+    "main.9c62c5a3.css.map": "/static/css/main.9c62c5a3.css.map",
+    "main.cdf48d2b.js.map": "/static/js/main.cdf48d2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c62c5a3.css",
+    "static/js/main.cdf48d2b.js"
+  ]
+}

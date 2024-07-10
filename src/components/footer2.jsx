@@ -142,10 +142,13 @@ export default function Footer() {
             <a href="#"><i className="fab fa-instagram fa-2x"></i></a>
           </div>
           <p style={{ color: '#999', paddingTop: 20, fontSize: 16, textAlign: 'center' }}>
-            Developed by <a style={{ color: '#fff' }} href="#">Your Name</a>
+            Developed by <a style={{ color: '#fff' }} href="#">MSP</a>
           </p>
-        </div>
-      </div>
+          </div>
+          </div>
+          <p style={{ color: '#888  ', paddingTop: 20, fontSize: 16, textAlign: 'center' }}>
+            &copy; 2024 KR GROUP
+          </p>
     </footer>
   );
 }
