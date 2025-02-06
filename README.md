@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 - MongoDB (if database integration is included)
 
 ## Screenshots & Video
-![Homepage Screenshot](WhatsApp Image 2025-02-06 at 11.33.36 PM.jpeg)
+![Homepage Screenshot](path/WhatsApp Image 2025-02-06 at 11.33.36 PM.jpeg)
 ![Services Page Screenshot](WhatsApp Image 2025-02-06 at 11.44.29 PM.jpeg)
 
 [Watch the Demo Video](KR Group - Official Website - Google Chrome 2024-07-13 21-10-04 (1).mp4)
