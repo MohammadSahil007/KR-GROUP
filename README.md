@@ -45,7 +45,7 @@ To run this project locally, follow these steps:
 ![Services Page Screenshot](3.jpeg)
 ![Services Page Screenshot](4.jpeg)
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/MohammadSahil007/KR-GROUP-/raw/main/KR-VID.mp4)
+[![Download Demo Video of website](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/MohammadSahil007/KR-GROUP-/raw/main/KR-VID.mp4)
 
 
 ## Contributing
