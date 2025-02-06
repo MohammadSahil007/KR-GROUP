@@ -40,10 +40,10 @@ To run this project locally, follow these steps:
 - MongoDB (if database integration is included)
 
 ## Screenshots & Video
-![Homepage Screenshot](path/to/homepage-screenshot.png)
-![Services Page Screenshot](path/to/services-screenshot.png)
+![Homepage Screenshot](Project-Pics/Home.jpeg)
+![Services Page Screenshot](Project-Pics/Service-Page.jpeg)
 
-[Watch the Demo Video](path/to/demo-video.mp4)
+[Watch the Demo Video](Project-Pics/KR-Vid.mp4)
 
 ## Contributing
 We welcome contributions! Feel free to fork this repository, submit pull requests, or open issues for improvements.
@@ -52,5 +52,5 @@ We welcome contributions! Feel free to fork this repository, submit pull request
 This project is licensed under the MIT License.
 
 ## Contact
-For inquiries, partnerships, or feedback, reach out via our official email: [your-email@example.com] or connect with us on social media.
+For inquiries, partnerships, or feedback, reach out via our official email: [ansarisahileager@gmail.com] or connect with us on social media.
 
