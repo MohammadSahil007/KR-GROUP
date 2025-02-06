@@ -40,10 +40,12 @@ To run this project locally, follow these steps:
 - MongoDB (if database integration is included)
 
 ## Screenshots & Video
-![Homepage Screenshot](path/WhatsApp Image 2025-02-06 at 11.33.36 PM.jpeg)
-![Services Page Screenshot](WhatsApp Image 2025-02-06 at 11.44.29 PM.jpeg)
+![Homepage Screenshot](1.jpeg)
+![Services Page Screenshot](2.jpeg)
+![Services Page Screenshot](3.jpeg)
+![Services Page Screenshot](4.jpeg)
 
-[Watch the Demo Video](KR Group - Official Website - Google Chrome 2024-07-13 21-10-04 (1).mp4)
+[Watch the Demo Video](KR-VID.mp4)
 
 ## Contributing
 We welcome contributions! Feel free to fork this repository, submit pull requests, or open issues for improvements.
