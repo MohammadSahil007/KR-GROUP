@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 - MongoDB
   
 ## Screenshots & Video
-![Homepage Screenshot](1.jpeg)
+![Homepage Screenshot](Demo_images/img/1.jpeg)
 ![Services Page Screenshot](2.jpeg)
 ![Services Page Screenshot](3.jpeg)
 ![Services Page Screenshot](4.jpeg)
