@@ -36,9 +36,9 @@ To run this project locally, follow these steps:
 - React.js
 - FontAwesome for icons
 - CSS for styling
-- Node.js (for backend if applicable)
-- MongoDB (if database integration is included)
-
+- Node.js 
+- MongoDB
+  
 ## Screenshots & Video
 ![Homepage Screenshot](1.jpeg)
 ![Services Page Screenshot](2.jpeg)
