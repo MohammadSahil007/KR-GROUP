@@ -40,10 +40,10 @@ To run this project locally, follow these steps:
 - MongoDB
   
 ## Screenshots & Video
-![Homepage Screenshot](Demo_images/img/1.jpeg)
-![Services Page Screenshot](2.jpeg)
-![Services Page Screenshot](3.jpeg)
-![Services Page Screenshot](4.jpeg)
+![Homepage Screenshot](Demo_images/1.jpeg)
+![Services Page Screenshot](Demo_images/2.jpeg)
+![Services Page Screenshot](Demo_images/3.jpeg)
+![Services Page Screenshot](Demo_images/4.jpeg)
 
 🎥 [Download Demo Video of Website](https://github.com/MohammadSahil007/KR-GROUP-/raw/main/KR-VID.mp4)
 
